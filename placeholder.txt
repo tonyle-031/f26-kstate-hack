@@ -1,0 +1,4 @@
+// Hello, this is just a placeholder.txt file for the upcoming K-State hackathon on the weekend of October 23rd-25th.
+// It will be ran in the business building.
+// I will be working alongside Tristan, Drian, and Kate. :)
+// I\'m grateful to have them as friends and teammates! 
