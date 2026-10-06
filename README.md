@@ -3,8 +3,7 @@ with collaborators Tristan Palnau, Drian Doan, Kate Kendig, and Tony Le (myself)
 
 The [insert what we're doing here] is designed to...
 
-Latest update: 1.0.1 
-  October 6th, 2026
+Latest update: 1.0.1 on October 6th, 2026
 
 Changelog: 
   This MD file :)
