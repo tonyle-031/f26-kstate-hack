@@ -1,3 +1,14 @@
-// Ideas established so far:
-// something revolving around helping students through training an ai to walk the student step-by-step through math problems, more effectively.
-// incorporating machine learning and building a rudimentary web page.
+Ideas established so far:
+  -something revolving around helping students through training an ai to walk the student step-by-step through math problems, more effectively.
+  -incorporating machine learning and build a web page/app.
+
+////////////////////////////////////////////////////////////////////////////////////////
+
+Framework to use: ???
+
+////////////////////////////////////////////////////////////////////////////////////////
+
+AI Used: ???
+
+////////////////////////////////////////////////////////////////////////////////////////
+
