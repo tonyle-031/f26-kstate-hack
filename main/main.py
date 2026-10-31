@@ -5,6 +5,7 @@
 def main():
     """
     insert main programatic stuff here.
+    hopefully it sort of functions?
     """
     print("hello world")
-    
+
